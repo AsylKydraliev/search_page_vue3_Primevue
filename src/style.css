@@ -1,0 +1,11 @@
+body {
+    font-family: var(--font-family);
+    background: #F7F6F4;
+    font-size: 14px;
+}
+
+.container {
+    max-width: 1415px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
